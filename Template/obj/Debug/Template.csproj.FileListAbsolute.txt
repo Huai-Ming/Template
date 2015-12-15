@@ -1,0 +1,6 @@
+C:\Users\lihuai\Documents\GitHub\Template\Template\bin\Template.dll.config
+C:\Users\lihuai\Documents\GitHub\Template\Template\bin\Template.dll
+C:\Users\lihuai\Documents\GitHub\Template\Template\bin\Template.pdb
+C:\Users\lihuai\Documents\GitHub\Template\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Documents\GitHub\Template\Template\obj\Debug\Template.dll
+C:\Users\lihuai\Documents\GitHub\Template\Template\obj\Debug\Template.pdb
